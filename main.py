@@ -1,4 +1,4 @@
-# importing the required modules
+# importing the required modules for project
 from tkinter import *  # importing all the modules and classes from tkinter
 from tkinter import ttk as ttk  # importing the ttk module from tkinter
 from tkinter import messagebox as mb  # importing the messagebox module from tkinter
