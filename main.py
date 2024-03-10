@@ -29,7 +29,6 @@ def listAllExpenses():
 
     # function to view an expense information
 
-
 def viewExpenseInfo():
     '''''This function will display the expense information in the data frame'''
 
